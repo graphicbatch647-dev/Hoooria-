@@ -5,7 +5,7 @@ add = num1 + num2
 res = add/2
 print(num1)
 
-num1 =int input("enterfirst number to add")
+num1 =int input("enter first number to add ")
 num2 = int input("enter sec number to add")
 add = num1 + num2
 res = add/2
