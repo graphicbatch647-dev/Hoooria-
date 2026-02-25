@@ -3,6 +3,7 @@
 # num2 = int(input("enter first number to multiply: "))
 # result = num1*num2
 # print("the result of two numbers multiplication is",result )
+#Conditional Operators 
 print (3 == 6)
 print (5==7)
 print (5!=5)
